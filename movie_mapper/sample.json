@@ -1,4 +1,4 @@
-[{"1":"Rice","2":"Channa (Chickpeas in spiced tomato gravy)",
+{"week":"Feb 3rd","items":[{"1":"Rice","2":"Channa (Chickpeas in spiced tomato gravy)",
 "3":"Gauranga Potatoes (Indian potato salad)",
 "4":"Blueberry Halwa (Dessert made of cream of wheat and blueberries)"},
 {"1":"Rice","2":" Dhaal Makhini (Whole black Indian lentils and kidney beans)",
@@ -12,4 +12,5 @@
 "4":"Gulab Jamuns (Lightly fried milk balls soaked in a rose flavored syrup)"},
 {"1":"Rice","2":"Chole Palak (Chickpeas and spinach)",
 "3":"Paneer Tikka Masala (Marinated paneer with a spicy tomato gravy and peppers)",
-"4":"Almond Saffron Halwa (Dessert made of cream of wheat, almonds and saffron)"}]
+"4":"Almond Saffron Halwa (Dessert made of cream of wheat, almonds and saffron)"}],
+"pickup":["NU Cook Hall Atrium 10.50-11.15am","NU 303 E Chicago 10.55-11.05am","333 S Wabash (outside the CNA Center) 11.20-11.30am","232 S Franklin St (near Willis Tower) 11.40-11.50am","Jefferson at Monroe (near Presidential Towers) 12-12.10pm","300 E Randolph (outside the BCBS Building) 12.30-12.40pm","UChicago - S Ellis Ave - 12:15-12:30pm","IIT - By Siegel Hall - 12:45-12:55pm"]}
